@@ -2,11 +2,14 @@
 Hej og velkommen! I vil her kunne finde materialet vedrørende dette kursus.
 
 ## Kursets opbygning
-|Dag|Modul 1|Opgaver|Modul 2|Opgaver|
-|---|---|---|---|---|
-|09-05-21|Intro, variabler, typer og udtryk|TBA|Conditionals og funktioner|TBA|
-|16-05-21|Lister og Løkker|TBA| Strenge|TBA|
-|23-05-21|Dictionaries og filer|TBA|TBA|TBA|
+| Tid       | Beskæftigelse          |
+|-----------|------------------------|
+|11.30-12.30| Programmering i Python | 
+|12.30-13.15| Frokost                | 
+|13.15-14.45| Programmering i Python | 
+|14.45-15.00| Pause                  | 
+|15.00-16.30| Deep Learning          | 
+|16.30-17.00| Om studiet             | 
 
 ## Ekstra opgaver
 Der er også lidt ekstra opgaver hvis man skulle være hurtigt færdig
