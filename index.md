@@ -37,6 +37,6 @@ Søger i ekstra materiale kan i give nogle af disse et skud:
 * [Python og standardbiblioteket](https://docs.python.org/3/library/index.html): Den officielle dokumentation til Python
 * [Codeacademy](https://www.codecademy.com/learn/learn-python): En interaktiv tutorial i Python.
 * [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm): En fin side med tutorials i Python.
-* [Pip](https://pypi.org/): : Et værktøj til at installere nye biblioteker (udover standardbiblioteket).
+* [Pip](https://pypi.org/): Et værktøj til at installere nye biblioteker (udover standardbiblioteket).
 * [Pythontutor](http://pythontutor.com/live.html#mode=edit): Et visualiseringsværktøj til når man ikke kan se sig ud af en bug.
 * [Coding game](https://www.codingame.com/start): En måde at forberede sin programmering igennem spil mod andre. Det er programmørenes Tetris Battle.
