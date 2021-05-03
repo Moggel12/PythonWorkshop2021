@@ -1,5 +1,4 @@
 # Python Workshop på SDU
----
 Hej og velkommen! I vil her kunne finde materialet vedrørende dette kursus.
 
 # Praktisk information
@@ -16,7 +15,6 @@ Hvis i vil have fat på mig kan i kontakte mig på mail mives18@student.sdu.dk
 
 
 # Kursets opbygning
----
 ## Indhold
 ---
 | Dag      | Modul 1                           | Opgaver                                                                              | Modul 2                   | Opgaver |
