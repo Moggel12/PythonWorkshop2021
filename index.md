@@ -21,7 +21,7 @@ Hvis i vil have fat på mig kan i kontakte mig på mail mives18@student.sdu.dk
 | 23-05-21 | Dictionaries og filer             | [Opgaver](https://colab.research.google.com/drive/1R3beKxj1Wsoh8EScKBBvFlmRyrl-3sOm) | TBA                      |  |
 
 ## Ekstra opgaver
-Hvis man er hurtig færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på dag 1 anbefales det at i kommer til os for ekstra opgaver først.
+Hvis man er hurtig færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
 * [Project Euler](https://projecteuler.net/)
 * [Practice Python](https://www.practicepython.org/)
 * Data Science med [Python Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/)
@@ -36,4 +36,4 @@ Søger i ekstra materiale kan i give nogle af disse et skud:
 * [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm): En fin side med tutorials i Python.
 * [Pip](https://pypi.org/): Et værktøj til at installere nye biblioteker (udover standardbiblioteket).
 * [Pythontutor](http://pythontutor.com/live.html#mode=edit): Et visualiseringsværktøj til når man ikke kan se sig ud af en bug.
-* [Coding game](https://www.codingame.com/start): En måde at forberede sin programmering igennem spil mod andre. Det er programmørenes Tetris Battle.
+* [Coding game](https://www.codingame.com/start): En måde at forbedre sin programmering igennem spil mod andre. Det er programmørenes Tetris Battle.
