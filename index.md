@@ -11,6 +11,8 @@ Dette kursus kommer til at foregå på Zoom over tre weekender:
 ## Kontakt information
 Hvis i vil have fat på mig kan i kontakte mig på mail mives18@student.sdu.dk
 
+## Evaluering af kurset
+Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller samlet) sådan at jeg kan justere kurset lidt efter behov: https://padlet.com/juulvestergaard/drpqpnner59w4zvz
 
 # Kursets opbygning
 ## Indhold
