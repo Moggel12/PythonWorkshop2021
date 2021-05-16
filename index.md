@@ -17,7 +17,7 @@ Hvis i vil have fat på mig kan i kontakte mig på mail mives18@student.sdu.dk
 | Dag      | Modul 1                           | Opgaver                                                                              | Modul 2                   | Opgaver |
 |----------|-----------------------------------|--------------------------------------------------------------------------------------|---------------------------|---------|
 | 09-05-21 | [Intro, variabler, typer og udtryk](/slides/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/1gAjK4PhjNS7prO4QNflvhJsMh9og7Mh7) | [Conditionals og funktioner](/slides/d1m2.pdf) | [Opgaver](https://colab.research.google.com/drive/1rxckca47eAAqBT7UKv6_TzwiNrMnX4F5) |
-| 16-05-21 | Lister og Løkker                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2) | Strenge                   | [Opgaver](https://colab.research.google.com/drive/1cuKUSv6lpr5hJ74PlJvPp8ZsIAtEzz7h) |
+| 16-05-21 | [Lister og Løkker](/slides/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2) | Strenge                   | [Opgaver](https://colab.research.google.com/drive/1cuKUSv6lpr5hJ74PlJvPp8ZsIAtEzz7h) |
 | 23-05-21 | Dictionaries og filer             | [Opgaver](https://colab.research.google.com/drive/1R3beKxj1Wsoh8EScKBBvFlmRyrl-3sOm) | TBA                      |  |
 
 ## Ekstra opgaver
