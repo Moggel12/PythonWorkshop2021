@@ -1,3 +1,4 @@
+Følgende er en måde at lave sten, saks, papir i Python. Jeg har valgt at gøre brug af mange af de ting i har lært for at i kan se èn måde at kombinere pensum indtil videre. Dette kan gøres på andre måder også, samtidigt med at det også godt kan gøres lidt mere simpelt. På denne måde for i også at se mere af hvordan man i virkeligheden inddeler sin kode i funktioner til at genbruge og til at øge læseligheden.
 ```Python
 import random
 
