@@ -16,14 +16,21 @@ def sten_saks_papir():
 def sten_saks_papir_play(options, wins, rounds):
     while (True):
         player_choice = get_player_choice(options)
+        if player_choice == "stop":
+            print("\nEnding game\n")
+            break
         computer_choice = get_computer_choice(options)
         winner = sten_saks_papir_winner(computer_choice, player_choice)
         update_wins(wins, winner)
         print_round(computer_choice, player_choice, wins, rounds, winner)
         rounds = rounds + 1
+    print("====Final score====")
+    print_stats(wins, rounds)
 
 def get_player_choice(options):
-    player_idx = int(input("Vælg én af følgende:\n1)Sten\n2)Saks\n3)Papir\n")) - 1
+    player_idx = int(input("Vælg én af følgende:\n0) Stop spil\n1) Sten\n2) Saks\n3) Papir\n")) - 1
+    if player_idx == -1:
+        return "stop"
     return options[player_idx]
 
 def get_computer_choice(options):
