@@ -20,7 +20,7 @@ Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller sa
 |----------|-----------------------------------|--------------------------------------------------------------------------------------|---------------------------|---------|
 | 09-05-21 | [Intro, variabler, typer og udtryk](/slides/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/1gAjK4PhjNS7prO4QNflvhJsMh9og7Mh7) | [Conditionals og funktioner](/slides/d1m2.pdf) | [Opgaver](https://colab.research.google.com/drive/1rxckca47eAAqBT7UKv6_TzwiNrMnX4F5) |
 | 16-05-21 | [Lister og Løkker](/slides/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2) | [Strenge](/slides/d2m2.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1cuKUSv6lpr5hJ74PlJvPp8ZsIAtEzz7h) |
-| 23-05-21 | Dictionaries og filer             | [Opgaver](https://colab.research.google.com/drive/1GYrmNI8AuKWWNkk-gEHkUHzE25H0RnkU) | Datalogi og SDU                      |  |
+| 23-05-21 | [Dictionaries og filer](/slides/d3m1.pdf)             | [Opgaver](https://colab.research.google.com/drive/1GYrmNI8AuKWWNkk-gEHkUHzE25H0RnkU) | Datalogi og SDU                      |  |
 
 ## Ekstra opgaver
 Hvis man er hurtig færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
