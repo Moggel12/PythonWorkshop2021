@@ -25,7 +25,11 @@ Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller sa
 
 # Kursets opbygning
 ## Indhold
+
+
 I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
+
+
 | Dag      | Modul 1                           | Opgaver | Modul 2                    | Opgaver |
 |----------|-----------------------------------|---------|----------------------------|---------|
 | 14-11-21 | Intro, variabler, typer og udtryk | Opgaver | Conditionals og funktioner | Opgaver |
