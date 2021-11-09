@@ -3,7 +3,7 @@ Hej og velkommen! I vil her kunne finde materialet vedrørende dette kursus.
 
 # Praktisk information
 ## Dato og tid
-Dette kursus kommer til at foregå på Zoom over tre weekender:
+Dette kursus kommer til at foregå på SDU over tre weekender:
 * 14-11-21, 11 - 17
 * 21-11-21, 11 - 17
 * 28-11-21, 11 - 17
