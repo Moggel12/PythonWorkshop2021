@@ -4,9 +4,18 @@ Hej og velkommen! I vil her kunne finde materialet vedrørende dette kursus.
 # Praktisk information
 ## Dato og tid
 Dette kursus kommer til at foregå på Zoom over tre weekender:
-* 09-05-21, 11 - 16
-* 16-05-21, 11 - 16
-* 23-05-21, 11 - 16
+* 14-11-21, 11 - 17
+* 21-11-21, 11 - 17
+* 28-11-21, 11 - 17
+
+## Lokale
+Alle dage skal vi mødes i U173. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
+</br>
+I kan finde lokalet i denne bygning (ved siden af den store hullede bygning)
+![Billede af bygning](/bygning.png)
+og lokalet kan ses her (første etage)</br>
+![Billede af lokale](/lokale.png)
+
 
 ## Kontakt information
 Hvis i vil have fat på mig kan i kontakte mig på mail mives18@student.sdu.dk
@@ -16,11 +25,12 @@ Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller sa
 
 # Kursets opbygning
 ## Indhold
+I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 | Dag      | Modul 1                           | Opgaver                                                                              | Modul 2                   | Opgaver |
 |----------|-----------------------------------|--------------------------------------------------------------------------------------|---------------------------|---------|
-| 09-05-21 | [Intro, variabler, typer og udtryk](/slides/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/1gAjK4PhjNS7prO4QNflvhJsMh9og7Mh7) | [Conditionals og funktioner](/slides/d1m2.pdf) | [Opgaver](https://colab.research.google.com/drive/1rxckca47eAAqBT7UKv6_TzwiNrMnX4F5) |
-| 16-05-21 | [Lister og Løkker](/slides/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2) | [Strenge](/slides/d2m2.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1cuKUSv6lpr5hJ74PlJvPp8ZsIAtEzz7h) |
-| 23-05-21 | [Dictionaries og filer](/slides/d3m1.pdf)             | [Opgaver](https://colab.research.google.com/drive/1GYrmNI8AuKWWNkk-gEHkUHzE25H0RnkU) | Datalogi og SDU                      |  |
+| 14-11-21 | Intro, variabler, typer og udtryk | Opgaver | Conditionals og funktioner | Opgaver |
+| 21-11-21 | Lister og Løkker                  | Opgaver | Strenge                  | Opgaver |
+| 28-11-21 | Dictionaries og filer             | Opgaver | Datalogi og SDU                      |  |
 
 ## Ekstra opgaver
 Hvis man er hurtig færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
