@@ -26,11 +26,11 @@ Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller sa
 # Kursets opbygning
 ## Indhold
 I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
-| Dag      | Modul 1                           | Opgaver                                                                              | Modul 2                   | Opgaver |
-|----------|-----------------------------------|--------------------------------------------------------------------------------------|---------------------------|---------|
+| Dag | Modul 1 | Opgaver | Modul 2 | Opgaver |
+|---|---|---|---|---|
 | 14-11-21 | Intro, variabler, typer og udtryk | Opgaver | Conditionals og funktioner | Opgaver |
-| 21-11-21 | Lister og Løkker                  | Opgaver | Strenge                  | Opgaver |
-| 28-11-21 | Dictionaries og filer             | Opgaver | Datalogi og SDU                      |  |
+| 21-11-21 | Lister og Løkker | Opgaver | Strenge | Opgaver |
+| 28-11-21 | Dictionaries og filer | Opgaver | Datalogi og SDU |  |
 
 ## Ekstra opgaver
 Hvis man er hurtig færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
