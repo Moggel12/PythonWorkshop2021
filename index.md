@@ -9,7 +9,7 @@ Dette kursus kommer til at foregå på SDU over tre weekender:
 * 28-11-21, 11 - 17
 
 ## Lokale
-Alle dage skal vi mødes i U173. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
+Alle dage skal vi mødes i U172. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
 </br>
 I kan finde lokalet i denne bygning (ved siden af den store hullede bygning)
 ![Billede af bygning](/bygning.png)
