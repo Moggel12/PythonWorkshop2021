@@ -14,7 +14,7 @@ Alle dage skal vi mødes i U172. Hvis der akut bliver ændret lokale vil det ogs
 I kan finde lokalet i denne bygning (ved siden af den store hullede bygning)
 ![Billede af bygning](/bygning.png)
 og lokalet kan ses her (første etage)</br>
-![Billede af lokale](/lokale.png)
+![Billede af lokale](/U172.png)
 
 
 ## Kontakt information
