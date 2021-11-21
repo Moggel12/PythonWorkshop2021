@@ -33,7 +33,7 @@ I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 | Dag      | Modul 1                           | Opgaver | Modul 2                    | Opgaver |
 |----------|-----------------------------------|---------|----------------------------|---------|
 | 14-11-21 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB?usp=sharing) | [Conditionals og funktioner](/d1m2.pdf) | [Opgaver](https://colab.research.google.com/drive/14Z4FpOTdvqx3ma5q2KfsskydGkrQ5VjN) |
-| 21-11-21 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1dL18v70BYFyrMi5TIQ9VELiupuk9MU-U?usp=sharing) | Strenge                    | Opgaver |
+| 21-11-21 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1dL18v70BYFyrMi5TIQ9VELiupuk9MU-U?usp=sharing) | [Strenge](/d2m2.pdf)                    | [Opgaver](https://colab.research.google.com/drive/1NfhN15HfNE6e3ojTNqSaNM9Y8BeMg1wy?usp=sharing) |
 | 28-11-21 | Dictionaries og filer             | Opgaver | Datalogi og SDU            |         |
 
 ## Ekstra opgaver
