@@ -11,6 +11,7 @@ Dette kursus kommer til at foregå på SDU over tre weekender:
 Vi vil yderligere allokere
 * 12-05-22, 19.30 - 20.30
 * 19-05-22, 19.30 - 20.30
+
 til ekstra opgaver.
 
 ## Lokale
