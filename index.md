@@ -12,7 +12,7 @@ Vi vil yderligere allokere
 * 12-05-22, 19.30 - 20.30
 * 19-05-22, 19.30 - 20.30
 
-til ekstra opgaver.
+til online møde om mulige ekstra opgaver.
 
 ## Lokale
 Alle dage skal vi mødes i U172. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
