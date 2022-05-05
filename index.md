@@ -4,9 +4,14 @@ Hej og velkommen! I vil her kunne finde materialet vedrørende dette kursus.
 # Praktisk information
 ## Dato og tid
 Dette kursus kommer til at foregå på SDU over tre weekender:
-* 14-11-21, 11 - 17
-* 21-11-21, 11 - 17
-* 28-11-21, 11 - 17
+* 08-05-22, 11 - 17
+* 15-05-22, 11 - 17
+* 22-05-22, 11 - 17
+
+Vi vil yderligere allokere
+* 12-05-22, 19.30 - 20.30
+* 19-05-22, 19.30 - 20.30
+til ekstra opgaver.
 
 ## Lokale
 Alle dage skal vi mødes i U172. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
@@ -21,7 +26,7 @@ og lokalet kan ses her (første etage)</br>
 Hvis i vil have fat på mig kan i kontakte mig på mail mives18@student.sdu.dk
 
 ## Evaluering af kurset
-Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller samlet) sådan at jeg kan justere kurset lidt efter behov: https://padlet.com/juulvestergaard/drpqpnner59w4zvz
+Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller samlet) sådan at jeg kan justere kurset lidt efter behov: https://padlet.com/juulvestergaard/2vasgkb6dv904qie
 
 # Kursets opbygning
 ## Indhold
@@ -30,14 +35,14 @@ Jeg har lavet en anonym padlet hvor i kan give noget feedback løbende (eller sa
 I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 
 
-| Dag      | Modul 1                           | Opgaver | Modul 2                    | Opgaver |
-|----------|-----------------------------------|---------|----------------------------|---------|
-| 14-11-21 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB?usp=sharing) | [Conditionals og funktioner](/d1m2.pdf) | [Opgaver](https://colab.research.google.com/drive/14Z4FpOTdvqx3ma5q2KfsskydGkrQ5VjN) |
-| 21-11-21 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1dL18v70BYFyrMi5TIQ9VELiupuk9MU-U?usp=sharing) | [Strenge](/d2m2.pdf)                    | [Opgaver](https://colab.research.google.com/drive/1NfhN15HfNE6e3ojTNqSaNM9Y8BeMg1wy?usp=sharing) |
-| 28-11-21 | [Dictionaries og filer](/d3m1.pdf)             | [Opgaver](https://colab.research.google.com/drive/1pkhKAI3wiucPQBlnw-FE4OjIo8HY7Pdp?usp=sharing) | Datalogi og SDU            |         |
+| Dag      | Modul 1                           | Opgaver | Modul 2                              | Opgaver |
+|----------|-----------------------------------|---------|--------------------------------------|---------|
+| 14-11-21 | Intro, variabler, typer og udtryk | Opgaver | Conditionals og funktioner           | Opgaver |
+| 21-11-21 | Lister og Løkker                  | Opgaver | Strenge                              | Opgaver |
+| 28-11-21 | Dictionaries og filer             | Opgaver | Python projekter i virkeligheden     |         |
 
 ## Ekstra opgaver
-Hvis man er hurtig færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
+Hvis man er hurtigt færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
 * [Project Euler](https://projecteuler.net/)
 * [Practice Python](https://www.practicepython.org/)
 * Data Science med [Python Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/)
