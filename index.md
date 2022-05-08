@@ -9,7 +9,7 @@ Dette kursus kommer til at foregå på SDU over tre weekender:
 * 22-05-22, 11 - 17
 
 Vi vil yderligere allokere
-* 11-05-22, 19.30 - 20.30
+* 11-05-22, 19.30 - 20.30, [Opgaver](https://colab.research.google.com/drive/1t3FjdgA8cy5ATS35Cw_6blMuUxdYxOZ-#scrollTo=b5xg2-UY6Sv6) [zoom-link]()
 * 19-05-22, 19.30 - 20.30
 
 til online møde om mulige ekstra opgaver.
