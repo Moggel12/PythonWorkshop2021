@@ -38,7 +38,7 @@ I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 
 | Dag      | Modul 1                           | Opgaver | Modul 2                              | Opgaver |
 |----------|-----------------------------------|---------|--------------------------------------|---------|
-| 08-05-22 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB) | Conditionals og funktioner           | Opgaver |
+| 08-05-22 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB) | [Conditionals og funktioner](/d2m1.pdf)           | [Opgaver](https://colab.research.google.com/drive/14Z4FpOTdvqx3ma5q2KfsskydGkrQ5VjN) |
 | 15-05-22 | Lister og Løkker                  | Opgaver | Strenge                              | Opgaver |
 | 22-05-22 | Dictionaries og filer             | Opgaver | Python projekter i virkeligheden     |         |
 
