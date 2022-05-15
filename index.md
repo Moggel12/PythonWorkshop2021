@@ -9,7 +9,7 @@ Dette kursus kommer til at foregå på SDU over tre weekender:
 * 22-05-22, 11 - 17
 
 Vi vil yderligere allokere
-* 11-05-22, 19.30 - 20.30, [Opgaver](https://colab.research.google.com/drive/1t3FjdgA8cy5ATS35Cw_6blMuUxdYxOZ-#scrollTo=b5xg2-UY6Sv6) [zoom-link](https://syddanskuni.zoom.us/j/64527146239), [Mulig løsning der bruger det i har lidt op til nu](https://colab.research.google.com/drive/1kD6f-q7EqgwnDYXBUDPbkKe3WWkPMVvE?usp=sharing)
+* 11-05-22, 19.30 - 20.30, [Opgaver](https://colab.research.google.com/drive/1t3FjdgA8cy5ATS35Cw_6blMuUxdYxOZ-#scrollTo=b5xg2-UY6Sv6) ([zoom-link](https://syddanskuni.zoom.us/j/64527146239)), [og mulig løsning der bruger det i har lidt op til nu](https://colab.research.google.com/drive/1kD6f-q7EqgwnDYXBUDPbkKe3WWkPMVvE?usp=sharing)
 * 19-05-22, 19.30 - 20.30
 
 til online møde om mulige ekstra opgaver.
