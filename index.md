@@ -40,6 +40,7 @@ I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 |----------|-----------------------------------|---------|--------------------------------------|---------|
 | 08-05-22 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB) | [Conditionals og funktioner](/d1m2.pdf)           | [Opgaver](https://colab.research.google.com/drive/14Z4FpOTdvqx3ma5q2KfsskydGkrQ5VjN) |
 | 15-05-22 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2) | [Strenge](/d3m1.pdf)                              | [Opgaver](https://colab.research.google.com/drive/1NfhN15HfNE6e3ojTNqSaNM9Y8BeMg1wy) |
+| 22-05-22| (https://colab.research.google.com/drive/1pkhKAI3wiucPQBlnw-FE4OjIo8HY7Pdp)
 
 ## Ekstra opgaver
 Hvis man er hurtigt færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
