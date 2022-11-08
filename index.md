@@ -4,13 +4,9 @@ Hej og velkommen! I vil her kunne finde materialet vedrørende dette kursus.
 # Praktisk information
 ## Dato og tid
 Dette kursus kommer til at foregå på SDU over tre weekender:
-* 08-05-22, 11 - 17
-* 15-05-22, 11 - 17
-* 22-05-22, 11 - 17
-
-Vi vil yderligere allokere
-* 11-05-22, 19.30 - 20.30, [opgaver](https://colab.research.google.com/drive/1t3FjdgA8cy5ATS35Cw_6blMuUxdYxOZ-#scrollTo=b5xg2-UY6Sv6) ([zoom-link](https://syddanskuni.zoom.us/j/64527146239)), [og mulig løsning der bruger det i har lært op til nu](https://colab.research.google.com/drive/1kD6f-q7EqgwnDYXBUDPbkKe3WWkPMVvE?usp=sharing)
-* 19-05-22, 19.30 - 20.30, [opgaver](https://colab.research.google.com/drive/1_l3wriFCzylzCEuEigGgm1yITWCFzz7O?usp=sharing) ([zoom-link](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fsyddanskuni.zoom.us.mcas.ms%2Fj%2F62235174510%3FMcasTsid%3D20893&McasCSRF=84639b01848240601b38017930ecf5289f89ddbd904be842564d9d529da9866a))
+* 13-11-22, 11 - 17
+* 20-11-22, 11 - 17
+* 27-11-22, 11 - 17
 
 til online møde om mulige ekstra opgaver.
 
@@ -38,9 +34,9 @@ I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 
 | Dag      | Modul 1                           | Opgaver | Modul 2                              | Opgaver |
 |----------|-----------------------------------|---------|--------------------------------------|---------|
-| 08-05-22 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB) | [Conditionals og funktioner](/d1m2.pdf)           | [Opgaver](https://colab.research.google.com/drive/14Z4FpOTdvqx3ma5q2KfsskydGkrQ5VjN) |
-| 15-05-22 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2) | [Strenge](/d2m2.pdf)                              | [Opgaver](https://colab.research.google.com/drive/1NfhN15HfNE6e3ojTNqSaNM9Y8BeMg1wy) |
-| 22-05-22| [Dictionaries]() | [Opgaver](https://colab.research.google.com/drive/1pkhKAI3wiucPQBlnw-FE4OjIo8HY7Pdp#scrollTo=724IVQST5u4h)|
+| 08-05-22 | [Intro, variabler, typer og udtryk]() | [Opgaver]() | [Conditionals og funktioner]()           | [Opgaver]() |
+| 15-05-22 | [Lister og Løkker]()                  | [Opgaver]() | [Strenge]()                              | [Opgaver]() |
+| 22-05-22| [Dictionaries]() | [Opgaver]()|
 ## Ekstra opgaver
 Hvis man er hurtigt færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
 * [Project Euler](https://projecteuler.net/)
