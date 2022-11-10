@@ -11,12 +11,12 @@ Dette kursus kommer til at foregå på SDU over tre weekender:
 til online møde om mulige ekstra opgaver.
 
 ## Lokale
-Alle dage skal vi mødes i U172. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
+Alle dage skal vi mødes i U174. Hvis der akut bliver ændret lokale vil det også bliver opdateret herpå.
 </br>
 I kan finde lokalet i denne bygning (ved siden af den store hullede bygning)
 ![Billede af bygning](/bygning.png)
 og lokalet kan ses her (første etage)</br>
-![Billede af lokale](/U172.png)
+![Billede af lokale](/U174.png)
 
 
 ## Kontakt information
@@ -34,9 +34,9 @@ I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 
 | Dag      | Modul 1                           | Opgaver | Modul 2                              | Opgaver |
 |----------|-----------------------------------|---------|--------------------------------------|---------|
-| 08-05-22 | [Intro, variabler, typer og udtryk]() | [Opgaver]() | [Conditionals og funktioner]()           | [Opgaver]() |
-| 15-05-22 | [Lister og Løkker]()                  | [Opgaver]() | [Strenge]()                              | [Opgaver]() |
-| 22-05-22| [Dictionaries]() | [Opgaver]()|
+| 13-11-22 | [Intro, variabler, typer og udtryk]() | [Opgaver]() | [Conditionals og funktioner]()           | [Opgaver]() |
+| 20-11-22 | [Lister og Løkker]()                  | [Opgaver]() | [Strenge]()                              | [Opgaver]() |
+| 27-11-22| [Dictionaries]() | [Opgaver]()|
 ## Ekstra opgaver
 Hvis man er hurtigt færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
 * [Project Euler](https://projecteuler.net/)
