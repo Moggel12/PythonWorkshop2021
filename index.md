@@ -35,7 +35,7 @@ I tabellen nedenfor vil der løbende blive uploadet slides og opgaver.
 | Dag      | Modul 1                           | Opgaver | Modul 2                              | Opgaver |
 |----------|-----------------------------------|---------|--------------------------------------|---------|
 | 13-11-22 | [Intro, variabler, typer og udtryk](/d1m1.pdf) | [Opgaver](https://colab.research.google.com/drive/17Y-GXmaRgZ55rFnlU1ov5Gm6u9cOoAcB#scrollTo=t6ggLMFcpnRe) | [Conditionals og funktioner](/d1m2.pdf)           | [Opgaver](https://colab.research.google.com/drive/14Z4FpOTdvqx3ma5q2KfsskydGkrQ5VjN) | 
-| 20-11-22 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2?usp=sharing) | [Strenge](/d2m2.pdf)                              | [Opgaver]() |
+| 20-11-22 | [Lister og Løkker](/d2m1.pdf)                  | [Opgaver](https://colab.research.google.com/drive/1UXHc2gzoFNXX0uCuWlNGVhZdfEjHEZf2?usp=sharing) | [Strenge](/d2m2.pdf)                              | [Opgaver](https://colab.research.google.com/drive/1NfhN15HfNE6e3ojTNqSaNM9Y8BeMg1wy?usp=sharing) |
 | 27-11-22| [Dictionaries]() | [Opgaver]()|
 ## Ekstra opgaver
 Hvis man er hurtigt færdig anbefaler vi at i afprøver jer selv i nogle af disse, eller kommer til os. Hvis i er tidligt færdig på _dag 1_ anbefales det at i kommer til os for ekstra opgaver først.
